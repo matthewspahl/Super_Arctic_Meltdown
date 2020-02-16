@@ -1,4 +1,4 @@
-# Super_Arctic_Meltdown
+# Super Arctic Meltdown
 
 ![alt text](SuperArcticMeltdownTitleScreen1.png)
 A 2D metroidvania game, made with Unity.
